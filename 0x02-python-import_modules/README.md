@@ -20,7 +20,7 @@
 
                      /* Tasks 0 */
 
-    Write a program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3
+  /*  Write a program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3
 
   You have to use print function with string format to display integers
 
@@ -41,6 +41,7 @@
   You are not allowed to use * for importing or __import__
 
   Your code should not be executed when imported - by using __import__, like the example below
+   */
 
      /* Task 1 */
 
