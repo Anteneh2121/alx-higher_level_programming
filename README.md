@@ -1,10 +1,10 @@
 #  alx-higher_level_programming
 
-![Python](https://www.analyticsvidhya.com/blog/2021/08/how-to-define-a-function-in-python/)
+[Python](https://www.analyticsvidhya.com/blog/2021/08/how-to-define-a-function-in-python/)
 
 #  Introduction
 
-Each directory contains the high level projects and code that I wrote during my time at Holberton. More detailed and specific READMEs are located in each folder. The focus of these projects were to master computer science concepts and to practice the theory behind python, abstraction, and databases. There is info and trivia questions that I go over in each directory.
+Each directory contains the high level projects and code that I wrote during my time at ALX. More detailed and specific READMEs are located in each folder. The focus of these projects were to master computer science concepts and to practice the theory behind python, abstraction, and databases. There is info and trivia questions that I go over in each directory.
 
 # Description of Each Directory
 
