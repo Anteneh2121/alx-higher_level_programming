@@ -1,5 +1,7 @@
 #  alx-higher_level_programming
 
+![Python](https://www.python.org/community/logos/)
+
 [Python](https://www.analyticsvidhya.com/blog/2021/08/how-to-define-a-function-in-python/)
 
 #  Introduction
