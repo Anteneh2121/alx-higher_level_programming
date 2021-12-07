@@ -8,8 +8,13 @@ As usual, make sure you type (never copy and paste), test, understand all exampl
 
 ##  Resources
 [ Object Oriented Programming ](https://python.swaroopch.com/oop.html)
-[Object-Oriented Programming (https://python-course.eu/oop/object-oriented-programming.php)
+
+[ Object-Oriented Programming ](https://python-course.eu/oop/object-oriented-programming.php)
+
 [ Properties vs. Getters and Setters](https://python-course.eu/oop/properties-vs-getters-and-setters.php)
+
 [ Learn to Program 9 : Object Oriented Programming ](https://www.youtube.com/watch?v=1AGyBuVCTeE)
+
 [ Python Classes and Objects ](https://www.youtube.com/watch?v=apACNr7DC_s)
+
 [ Object Oriented Programming ](https://www.youtube.com/watch?v=-DP1i2ZU9gk)
