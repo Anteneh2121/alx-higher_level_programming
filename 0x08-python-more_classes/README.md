@@ -70,23 +70,24 @@
 
 #  Tasks
 
-##  0. Simple rectangle
-Write an empty class Rectangle that defines a rectangle:
+[0. Simple rectangle](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/0-rectangle.py)
 
-You are not allowed to import any module
+[1. Real definition of a rectangle](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/1-rectangle.py)
 
-## 1. Real definition of a rectangle
-Write a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+[2. Area and Perimeter](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/2-rectangle.py)
 
- . Private instance attribute: width:
-   . property def width(self): to retrieve it
-   . property setter def width(self, value): to set it:
-      .width must be an integer, otherwise raise a TypeError exception with the message width must be an integer
-      . if width is less than 0, raise a ValueError exception with the message width must be >= 0
- . Private instance attribute: height:
-    . property def height(self): to retrieve it
-    .property setter def height(self, value): to set it:
-      . height must be an integer, otherwise raise a TypeError exception with the message height must be an integer
-      . if height is less than 0, raise a ValueError exception with the message height must be >= 0
- . Instantiation with optional width and height: def __init__(self, width=0, height=0):
- . You are not allowed to import any module
+[3. String representation](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/3-rectangle.py)
+
+[4. Eval is magic](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/4-rectangle.py)
+
+[5. Detect instance deletion](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/5-rectangle.py)
+
+[6. How many instances](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/6-rectangle.py)
+
+[7. Change representation](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/7-rectangle.py)
+
+[8. Compare rectangles](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/8-rectangle.py)
+
+[9. A square is a rectangle](https://github.com/Anteneh2121/alx-higher_level_programming/blob/main/0x08-python-more_classes/9-rectangle.py)
+
+#  Done by Anteneh Kassaw Bizuneh
