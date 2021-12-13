@@ -2,71 +2,71 @@
 
 #  Resources
 
-[Object Oriented Programming](https://python.swaroopch.com/oop.html)
+ [Object Oriented Programming](https://python.swaroopch.com/oop.html)
 
-[Object-Oriented Programming](https://python-course.eu/oop/object-oriented-programming.php)
+ [Object-Oriented Programming](https://python-course.eu/oop/object-oriented-programming.php)
 
-[Class and Instance Attributes](https://python-course.eu/oop/class-instance-attributes.php)
+ [Class and Instance Attributes](https://python-course.eu/oop/class-instance-attributes.php)
 
-[classmethods and staticmethods](https://www.youtube.com/watch?v=rq8cL2XMM5M)
+ [classmethods and staticmethods](https://www.youtube.com/watch?v=rq8cL2XMM5M)
 
-[Properties vs. Getters and Setters ](https://python-course.eu/oop/properties-vs-getters-and-setters.php)
+ [Properties vs. Getters and Setters ](https://python-course.eu/oop/properties-vs-getters-and-setters.php)
 
-[str vs repr](https://shipit.dev/posts/python-str-vs-repr.html)
+ [str vs repr](https://shipit.dev/posts/python-str-vs-repr.html)
 
 #  Learning Objectives
 
-Why Python programming is awesome
+  . Why Python programming is awesome
 
-What is OOP
+  . What is OOP
 
-“first-class everything”
+  . “first-class everything”
 
-What is a class
+  . What is a class
 
-What is an object and an instance
+  . What is an object and an instance
 
-What is the difference between a class and an object or instance
+  . What is the difference between a class and an object or instance
 
-What is an attribute
+  . What is an attribute
 
-What are and how to use public, protected and private attributes
+  . What are and how to use public, protected and private attributes
 
-What is self
+  . What is self
 
-What is a method
+  . What is a method
 
-What is the special __init__ method and how to use it
+  . What is the special __init__ method and how to use it
 
-What is Data Abstraction, Data Encapsulation, and Information Hiding
+  . What is Data Abstraction, Data Encapsulation, and Information Hiding
 
-What is a property
+  . What is a property
 
-What is the difference between an attribute and a property in Python
+  . What is the difference between an attribute and a property in Python
 
-What is the Pythonic way to write getters and setters in Python
+  . What is the Pythonic way to write getters and setters in Python
 
-What are the special __str__ and __repr__ methods and how to use them
+  . What are the special __str__ and __repr__ methods and how to use them
 
-What is the difference between __str__ and __repr__
+  . What is the difference between __str__ and __repr__
 
-What is a class attribute
+  . What is a class attribute
 
-What is the difference between a object attribute and a class attribute
+  . What is the difference between a object attribute and a class attribute
 
-What is a class method
+  . What is a class method
 
-What is a static method
+  . What is a static method
 
-How to dynamically create arbitrary new attributes for existing instances of a class
+  . How to dynamically create arbitrary new attributes for existing instances of a class
 
-How to bind attributes to object and classes
+  . How to bind attributes to object and classes
 
-What is and what does contain __dict__ of a class and of an instance of a class
+  . What is and what does contain __dict__ of a class and of an instance of a class
 
-How does Python find the attributes of an object or class
+  . How does Python find the attributes of an object or class
 
-How to use the getattr function
+  . How to use the getattr function
 
 #  Tasks
 
@@ -75,3 +75,18 @@ Write an empty class Rectangle that defines a rectangle:
 
 You are not allowed to import any module
 
+## 1. Real definition of a rectangle
+Write a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+
+ . Private instance attribute: width:
+   . property def width(self): to retrieve it
+   . property setter def width(self, value): to set it:
+      .width must be an integer, otherwise raise a TypeError exception with the message width must be an integer
+      . if width is less than 0, raise a ValueError exception with the message width must be >= 0
+ . Private instance attribute: height:
+    . property def height(self): to retrieve it
+    .property setter def height(self, value): to set it:
+      . height must be an integer, otherwise raise a TypeError exception with the message height must be an integer
+      . if height is less than 0, raise a ValueError exception with the message height must be >= 0
+ . Instantiation with optional width and height: def __init__(self, width=0, height=0):
+ . You are not allowed to import any module
