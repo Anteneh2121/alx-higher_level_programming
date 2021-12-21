@@ -26,8 +26,8 @@ Prototypes for functions written in this project:
 | `9-student.py` | `def __init__(self, first_name, last_name, age):` |
 | `10-student.py` | `def __init__(self, first_name, last_name, age):` |
 | `11-student.py` | `def __init__(self, first_name, last_name, age):` |
-| `12-pascal_triangle.py' | 'def pascal_triangle(n):`|
-| `100-append_after.py' | 'def append_after(filename="", search_string="", new_string=""):` |
+| `12-pascal_triangle.py' | `def pascal_triangle(n):`|
+| `100-append_after.py' | `def append_after(filename="", search_string="", new_string=""):` |
 
 ## Tasks :page_with_curl:
 
