@@ -18,3 +18,9 @@ Each directory contains the high level projects and code that I wrote during my 
 | 0x03-python-data_structures | DS |
 | 0x04-python-more_data_structures | MOAR DS!! |
 | 0x05-python-exceptions | Exception and error handling |
+| 0x06-python-classes | Python classes |
+| 0x07-python-test_driven_development | Unittest |
+| 0x08-python-more_classes | More on Python Class |
+| 0x09-python-everything_is_object | Python object |
+| 0x0A-python-inheritance | python Inheritance |
+| 0x0B-python-input_output | files |
