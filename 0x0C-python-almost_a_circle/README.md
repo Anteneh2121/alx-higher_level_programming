@@ -216,4 +216,4 @@ representation of a `Square`.
 ---
 
 ## Author
-* **Nga La** - [Anteneh](https://github.com/Anteneh2121)
+* **Anteneh Kassaw** - [Anteneh](https://github.com/Anteneh2121)
