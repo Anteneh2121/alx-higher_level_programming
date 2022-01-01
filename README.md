@@ -2,14 +2,12 @@
 
 
 
-<h1> ALX + HOLBERTON </h1>
+<h4> ALX + HOLBERTON </h4>
 
-# Higher-level Programming
 
 ## Description
-Projects written in Python programming language as part of the Holberton School first year curriculum.
-Topics covered in this repo include foundations of Python, databases(MySQL), and Javascript.
-
+Projects written in Python programming language as part of the ALX and  Holberton School first year curriculum.
+Topics covered in this repo include foundations of Python .
 PROJECT | DESCRIPTION
 ----|----
 [0x00. Python - Hello, World](./0x00-python-hello_world) | ...
@@ -25,3 +23,10 @@ PROJECT | DESCRIPTION
 [0x0A. Python - Inheritance](./0x0A-python-inheritance) | 
 [0x0B. Python - Input/Output](./0x0B-python-input_output) | 
 [0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle) | 
+
+
+## Author
+
+**Anteneh kassaw Bizuneh**
+* email: [antukassaw1@gmail.com](antukassaw1@gmail.com)
+* * github: [Anteneh Kassaw](https://github.com/Anteneh2121)
