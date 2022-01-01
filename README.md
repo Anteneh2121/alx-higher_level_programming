@@ -2,25 +2,26 @@
 
 
 
-[Python](https://www.analyticsvidhya.com/blog/2021/08/how-to-define-a-function-in-python/)
+<h1> ALX + HOLBERTON </h1>
 
-#  Introduction
+# Higher-level Programming
 
-Each directory contains the high level projects and code that I wrote during my time at ALX. More detailed and specific READMEs are located in each folder. The focus of these projects were to master computer science concepts and to practice the theory behind python, abstraction, and databases. There is info and trivia questions that I go over in each directory.
+## Description
+Projects written in Python programming language as part of the Holberton School first year curriculum.
+Topics covered in this repo include foundations of Python, databases(MySQL), and Javascript.
 
-# Description of Each Directory
-
-| Directory | Description |
-| --------- | ----------- |
-| 0x00-python-hello_world | The basics of python |
-| 0x01-python-if_else_loops_functions | Focus was mainly on conditions and logic |
-| 0x02-python-import_modules | Import and libraries problem sets. |
-| 0x03-python-data_structures | DS |
-| 0x04-python-more_data_structures | MOAR DS!! |
-| 0x05-python-exceptions | Exception and error handling |
-| 0x06-python-classes | Python classes |
-| 0x07-python-test_driven_development | Unittest |
-| 0x08-python-more_classes | More on Python Class |
-| 0x09-python-everything_is_object | Python object |
-| 0x0A-python-inheritance | python Inheritance |
-| 0x0B-python-input_output | files |
+PROJECT | DESCRIPTION
+----|----
+[0x00. Python - Hello, World](./0x00-python-hello_world) | ...
+[0x01. Python - if/else, loops, functions](./0x01-python-if_else_loops_functions) | 
+[0x02. Python - import & modules](./0x02-python-import_modules) | 
+[0x03. Python - Data Structures: Lists, Tuples](./0x03-python-data_structures) | 
+[0x04. Python - More Data Structures: Set, Dictionary](./0x04-python-more_data_structures) | 
+[0x05. Python - Exceptions](./0x05-python-exceptions) | 
+[0x06. Python - Classes and Objects](./0x06-python-classes) | 
+[0x07. Python - Test-driven development](./0x07-python-test_driven_development) | 
+[0x08. Python - More Classes and Objects](./0x08-python-more_classes) | 
+[0x09. Python - Everything is object](./0x09-python-everything_is_object) | 
+[0x0A. Python - Inheritance](./0x0A-python-inheritance) | 
+[0x0B. Python - Input/Output](./0x0B-python-input_output) | 
+[0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle) | 
