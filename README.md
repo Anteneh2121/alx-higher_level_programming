@@ -29,4 +29,4 @@ PROJECT | DESCRIPTION
 
 **Anteneh kassaw Bizuneh**
 * email: [antukassaw1@gmail.com](antukassaw1@gmail.com)
-* * github: [Anteneh Kassaw](https://github.com/Anteneh2121)
+* github: [Anteneh Kassaw](https://github.com/Anteneh2121)
