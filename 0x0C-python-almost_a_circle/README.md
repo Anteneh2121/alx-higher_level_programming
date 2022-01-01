@@ -27,8 +27,15 @@ independently-developed test files:
 
 ## Classes :cl:
 
+### [0. If it's not tested it doesn't work](./tests/)
+* All your files, classes and methods must be unit tested and be PEP 8 validated. 
+
+
 ### Base
 Represents the "base" class for all other classes in the project. Includes:
+
+### [1. Base class](./models/base.py)
+* Write the first class Base:
 
 * Private class attribute `__nb_objects = 0`.
 * Public instance attribute `id`.
