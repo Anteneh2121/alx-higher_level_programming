@@ -50,7 +50,7 @@ $ cat 3-list_tables.sql | mysql -h localhost -u root -p mysql
   `first_table`.
   * Description:
     * `id` = `89`
-    * `name` = `Holberton School`
+    * `name` = `Best School`
 
 * **8. Count 89**
   * [8-count_89.sql](./8-count_89.sql): MySQL script that displays the number records with `id =
@@ -113,4 +113,6 @@ $ cat 3-list_tables.sql | mysql -h localhost -u root -p mysql
 * **20. Temperature #2**
   * [103-max_state.sql](./103-max_state.sql): MySQL script that displays the max temperature of each
   state in order of state name.
-
+  
+## Authors
+Anteneh Kassaw Bizuneh
