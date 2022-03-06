@@ -1,25 +1,23 @@
 #!/usr/bin/python3
 """
-script that lists all State objects that contain the letter a from
-the database hbtn_0e_6_usa
-    - script takes 3 arguments: mysql username, mysql password and databasename
-    - uses the module SQLAlchemy
-    - import State and Base from model_state
-    - script connects to a MySQL server running on localhost at port 3306
-    - Results sorted in ascending order by states.id
+list all State objects that contain the letter a from a database
 """
 
-if __name__ == '__main__':
-    import sys
-    from sqlalchemy import create_engine
-    from sqlalchemy.orm import sessionmaker
-    from model_state import Base, State
+import sqlalchemy
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from sys import argv
+from model_state import Base, State
 
-    engine = create_engine('mysql+mysqldb://{}:{}@localhost/{}'
-                           .format(sys.argv[1], sys.argv[2], sys.argv[3]))
-    Session = sessionmaker(bind=engine)
-    s = Session()
-
-    for row in s.query(State).filter(State.name.contains('a'))\
-                .order_by(State.id.asc()):
-        print("{} : {}".format(row.id, row.name))
+if __name__ == "__main__":
+    eng = create_engine('mysql+mysqldb://{}:{}@localhost/{}'.format(argv[1],
+                                                                    argv[2],
+                                                                    argv[3]))
+    Base.metadata.create_all(eng)
+    Session = sessionmaker(bind=eng)
+    session = Session()
+    s = '%a%'
+    states = session.query(State).filter(State.name.like(s)).order_by(State.id)
+    for state in states:
+        print("{}: {}".format(state.id, state.name))
+    session.close()
