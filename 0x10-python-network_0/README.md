@@ -8,9 +8,6 @@ how to utilize cookies.
 Task six was an algorithm challenge separate from the overall project theme
 completed in Python.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
 
 ## Tasks :page_with_curl:
 
