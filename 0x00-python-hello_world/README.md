@@ -61,8 +61,7 @@ Prototypes for functions written in this project:
   * [8-concat_edges.py](./8-concat_edges.py): Python script that prints `object-oriented
   programming with Python`, followed by a new line without creating new variables or
   string literals.
-  * Completion of [this source code](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py).
-
+ 
 * **9. Easter Egg**
   * [9-easter_egg.py](./9-easter_egg.py): Python script that prints "The Zen of Python" by
   Tim Peters, followed by a new line.
@@ -90,5 +89,5 @@ Prototypes for functions written in this project:
   `$PYFILEc` (ex. `export PYFILE=my_main.py` => output filename: `my_main.pyc`).
 
 * **13. ByteCode -> Python #1**
-  * [102-magic_calculation.py](./103-magic_calculation.py): Python function matching exactly
+  * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly
   a bytecode provided by Holberton School.
